@@ -1,0 +1,9 @@
+split -v
+screen -t terminal
+chdir $HOME/BashCode
+screen
+focus 
+screen -t script
+resize -h +10
+chdir $HOME/BashCode
+screen
