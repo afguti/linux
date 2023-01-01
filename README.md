@@ -8,3 +8,8 @@ This is a file that can be used with screen command to override ./screenrc file.
 A sample of how to use it can be seen below:
 
 `screen -c bashscreen`
+
+see the command here https://github.com/afguti/linux/blob/main/bashscreen
+
+---
+
